@@ -36,7 +36,7 @@ Digite: '''
 
 print()
 
-saldo = 100
+saldo = 200
 limite_por_operacao_financeira = 500
 extrato_saida = []
 extrato_entrada = []
